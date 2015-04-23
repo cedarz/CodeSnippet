@@ -1,4 +1,4 @@
-data-structure
+CodeSnippet
 ==============
 
-code implementation out of the data structure textbooks
+some code samples in daily study and work.
